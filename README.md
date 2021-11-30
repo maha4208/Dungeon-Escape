@@ -1,2 +1,2 @@
-# bikeVigilantes
-CU Boulder - CSCI3308 Group Project
+# Dungeon Escape
+A fun and interactive gam played within the Linux Command Terminal
